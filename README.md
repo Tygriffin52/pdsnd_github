@@ -1,14 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Create in 2020.
 
 ### Project Title
 New Jack Swing
 
 ### Description
-Describe what your project is about and what it does
+This is just so I can add new stuff
 
 ### Files used
-Include the files used
+Files? We don't need no stinking files.
 
 ### Credits
 Wrex-N-Effect
