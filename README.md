@@ -1,17 +1,17 @@
 ### Date created
-Create in 2020.
+Create 7/7/20.
 
 ### Project Title
-New Jack Swing
+Modifications and uploading Bikeshare code.
 
 ### Description
-This is just so I can add new stuff
+These code changes should allow the Bikeshare code to run more efficiently and faster.
 
 ### Files used
-Files? We don't need no stinking files.
+In addition to the Bikeshare.py, there are 3 local files: new_york_city.csv, chicago.csv and washington.csv
 
 ### Credits
-Wrex-N-Effect
+Tyrone Griffin is responsible for all updates.
 
 ### Extra Extra
-This is because I didn't realize I had to push each change, so I'm making another change to push.
+Do to a last minute review, had to make a small modification and push the update to the foreign repo.
